@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Andy Ma.DESKTOP-49718PJ\Desktop\opengl\GLTutorial\GLTutorial\main.cpp(108,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GLTutorial.vcxproj -> C:\Users\Andy Ma.DESKTOP-49718PJ\Desktop\opengl\GLTutorial\x64\Debug\GLTutorial.exe
